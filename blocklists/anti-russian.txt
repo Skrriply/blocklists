@@ -1,0 +1,126 @@
+[Adblock Plus]
+! Title: 🚫 Anti-russian blocklist
+! Description: Blocks russian websites
+! Homepage: https://github.com/Skrriply/blocklists
+! License: https://github.com/Skrriply/blocklists/blob/main/LICENSE
+! Issues: https://github.com/Skrriply/blocklists/issues
+! Syntax: uBlock
+
+! TLDs
+||moscow^$doc
+||ru^$doc
+||su^$doc
+||дети^$doc
+||католик^$doc
+||ком^$doc
+||москва^$doc
+||онлайн^$doc
+||орг^$doc
+||рус^$doc
+||рф^$doc
+||сайт^$doc
+
+! VK
+! https://raw.githubusercontent.com/nextdns/services/refs/heads/main/services/vk
+! https://raw.githubusercontent.com/v2ray/domain-list-community/refs/heads/master/data/vk
+||mvk.com^
+||userapi.com^
+||vk-cdn.me^
+||vk-cdn.net^
+||vk-portal.net^
+||vk.cc^
+||vk.com^
+||vk.design^
+||vk.link^
+||vk.me^
+||vkcache.com^
+||vkgo.app^
+||vklive.app^
+||vkmessenger.app^
+||vkmessenger.com^
+||vkuseraudio.com^
+||vkuserlive.net^
+||vkuservideo.com^
+||vkuservideo.net^
+
+! Yandex
+! https://raw.githubusercontent.com/v2ray/domain-list-community/refs/heads/master/data/yandex
+||yandex^$doc
+||yandex.aero^
+||yandex.az^
+||yandex.by^
+||yandex.co.il^
+||yandex.com^
+||yandex.com.am^
+||yandex.com.ge^
+||yandex.com.tr^
+||yandex.com.ua^
+||yandex.de^
+||yandex.ee^
+||yandex.eu^
+||yandex.fi^
+||yandex.fr^
+||yandex.jobs^
+||yandex.kg^
+||yandex.kz^
+||yandex.lt^
+||yandex.lv^
+||yandex.md^
+||yandex.net^
+||yandex.org^
+||yandex.pl^
+||yandex.st^
+||yandex.sx^
+||yandex.tj^
+||yandex.tm^
+||yandex.ua^
+||yandex.uz^
+||yandexcloud.net^
+||yastatic.net^
+||yadi.sk^
+||yandex.cloud^
+||yastatic.net^
+
+! uCoz
+||at.ua^$doc
+||ucoz.com^
+||ucoz.net^
+||ucoz.ua^
+
+! Dr. Web
+! https://raw.githubusercontent.com/v2ray/domain-list-community/refs/heads/master/data/drweb
+||drweb-av.de^
+||drweb-av.es^
+||drweb-av.it^
+||drweb-av.pl^
+||drweb.by^
+||drweb.cn^
+||drweb.co.jp^
+||drweb.com^
+||drweb.fr^
+||drweb.kz^
+||drweb.uz^
+
+! Kaspersky
+||kaspersky.com^
+
+! Tilda
+||tilda.cc^
+||tilda.ws^
+||tildacdn.com^
+
+! Linux distributions
+! https://distrowatch.com/search.php?origin=Russia
+||altlinux.org^
+||calculate-linux.org^
+||kolibrios.org^
+||reactos.org^
+||runtu.org^
+
+! Other
+||arizona-rp.com^
+||ddos-guard.net^
+||habr.com^
+||onlyoffice.com^
+||qiwi.com^
+||tlauncher.org^
