@@ -7,18 +7,18 @@
 ! Syntax: uBlock
 
 ! TLDs
-||moscow^$doc
-||ru^$doc
-||su^$doc
-||дети^$doc
-||католик^$doc
-||ком^$doc
-||москва^$doc
-||онлайн^$doc
-||орг^$doc
-||рус^$doc
-||рф^$doc
-||сайт^$doc
+||moscow^
+||ru^
+||su^
+||дети^
+||католик^
+||ком^
+||москва^
+||онлайн^
+||орг^
+||рус^
+||рф^
+||сайт^
 
 ! VK
 ! https://raw.githubusercontent.com/nextdns/services/refs/heads/main/services/vk
@@ -45,7 +45,7 @@
 
 ! Yandex
 ! https://raw.githubusercontent.com/v2ray/domain-list-community/refs/heads/master/data/yandex
-||yandex^$doc
+||yandex^
 ||ya.cc^
 ||yaconnect.com^
 ||yadi.sk^
@@ -88,7 +88,7 @@
 ||yastatic.net^
 
 ! uCoz
-||at.ua^$doc
+||at.ua^
 ||ucoz.com^
 ||ucoz.net^
 ||ucoz.ua^
@@ -137,12 +137,24 @@
 ||star-conflict.com^
 ||warthunder.com^
 
+! AdGuard
+||adguard-dns.io^
+||adguard.com^
+||adguard-vpn.com^
+
+! IXBT.com
+||ixbt.com^
+||ixbt.games^
+||ixbt.media^
+
 ! Other
+||4pda.to^
 ||arizona-rp.com^
 ||clients.site^
 ||comss.org^
 ||ddos-guard.net^
 ||habr.com^
+||hikka.pw^
 ||onlyoffice.com^
 ||qiwi.com^
 ||tlauncher.org^
