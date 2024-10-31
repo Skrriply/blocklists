@@ -147,6 +147,40 @@
 ||ixbt.games^
 ||ixbt.media^
 
+! Gsimeteo
+||gismeteo.by^
+||gismeteo.com^
+||gismeteo.kz^
+||gismeteo.lt^
+||gismeteo.lv^
+||gismeteo.md^
+||gismeteo.ua^
+||meteofor.com^
+||meteofor.com.ua^
+
+! 2GIS
+||2gis.ae^
+||2gis.am^
+||2gis.az^
+||2gis.biz^
+||2gis.by^
+||2gis.cl^
+||2gis.com^
+||2gis.cz^
+||2gis.it^
+||2gis.kg^
+||2gis.kz^
+||2gis.uz^
+||2gis.ua^
+
+! 1C
+||1c.cloud^
+||1c.com^
+||1c.kz^
+||1c.link^
+||1c.md^
+||1c.rs^
+
 ! Other
 ||4pda.to^
 ||arizona-rp.com^
@@ -157,6 +191,7 @@
 ||hikka.pw^
 ||onlyoffice.com^
 ||qiwi.com^
+||russianfood.com^
 ||tlauncher.org^
 ||tsargrad.tv^
 ||turbopages.org^
