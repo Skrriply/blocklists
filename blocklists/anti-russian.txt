@@ -226,7 +226,7 @@
 ||russianfood.com^
 ||sharij.com.ua^
 ||sistema.com^
-|| Sputnikglobe.com^
+||sputnikglobe.com^
 ||sputniknews.com^
 ||strana.news^
 ||strana.today^
