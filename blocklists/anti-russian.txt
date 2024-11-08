@@ -181,18 +181,62 @@
 ||1c.md^
 ||1c.rs^
 
+! Bitrix24
+||bitrix24.com^
+||bitrix24.de^
+||bitrix24.es^
+||bitrix24.fr^
+||bitrix24.id^
+||bitrix24.it^
+||bitrix24.jp^
+||bitrix24.kz^
+||bitrix24.pl^
+||bitrix24.ua^
+||bitrix24.vn^
+
+! Sportmaster
+||sportmaster.com^
+||sportmaster.ua^
+
 ! Other
+! https://uk.wikipedia.org/wiki/Категорія:Пропагандистські_організації_Росії
+! https://uk.wikipedia.org/wiki/Категорія:Проросійські_організації_в_Україні
+||112.ua^
 ||4pda.to^
 ||arizona-rp.com^
 ||clients.site^
 ||comss.org^
+||ctrana.news^
 ||ddos-guard.net^
 ||habr.com^
 ||hikka.pw^
+||krt.news^
+||lukoil.com^
+||megafon.com^
+||mechel.com^
+||nash.live^
+||newsone.ua^
+||novyny.live^
+||odnako.org^
 ||onlyoffice.com^
 ||qiwi.com^
+||ren.tv^
+||rtr-planeta.com^
+||rusadmin.biz^
 ||russianfood.com^
+||sharij.com.ua^
+||sistema.com^
+|| Sputnikglobe.com^
+||sputniknews.com^
+||strana.news^
+||strana.today^
+||tass.com^
 ||tlauncher.org^
-||tsargrad.tv^
-||turbopages.org^
 ||turbo.site^
+||turbopages.org^
+||tsargrad.tv^
+||ukraina-vpered.com^
+||ukrlive.tv^
+||vesti.ua^
+||vtb.com^
+||zik.ua^
