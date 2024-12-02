@@ -203,17 +203,22 @@
 ! https://uk.wikipedia.org/wiki/Категорія:Проросійські_організації_в_Україні
 ||112.ua^
 ||4pda.to^
+||algoritmika.org^
+||animeflv.net^
 ||arizona-rp.com^
+||boosty.to^
 ||clients.site^
 ||comss.org^
 ||ctrana.news^
 ||ddos-guard.net^
+||donationalerts.com^
 ||habr.com^
 ||hikka.pw^
 ||krt.news^
+||livejournal.com^
 ||lukoil.com^
-||megafon.com^
 ||mechel.com^
+||megafon.com^
 ||nash.live^
 ||newsone.ua^
 ||novyny.live^
@@ -221,6 +226,7 @@
 ||onlyoffice.com^
 ||qiwi.com^
 ||ren.tv^
+||rt.com^
 ||rtr-planeta.com^
 ||rusadmin.biz^
 ||russianfood.com^
@@ -231,10 +237,11 @@
 ||strana.news^
 ||strana.today^
 ||tass.com^
+||technical.city^
 ||tlauncher.org^
+||tsargrad.tv^
 ||turbo.site^
 ||turbopages.org^
-||tsargrad.tv^
 ||ukraina-vpered.com^
 ||ukrlive.tv^
 ||vesti.ua^
