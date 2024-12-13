@@ -216,6 +216,7 @@
 ||hikka.pw^
 ||krt.news^
 ||livejournal.com^
+||litemanager.com^
 ||lukoil.com^
 ||mechel.com^
 ||megafon.com^
