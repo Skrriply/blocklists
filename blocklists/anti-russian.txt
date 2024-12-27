@@ -198,6 +198,12 @@
 ||sportmaster.com^
 ||sportmaster.ua^
 
+! Torrents
+||rutor.info^
+||rutracker.org^
+||rustorka.com^
+||tapochek.net^
+
 ! Other
 ! https://uk.wikipedia.org/wiki/Категорія:Пропагандистські_організації_Росії
 ! https://uk.wikipedia.org/wiki/Категорія:Проросійські_організації_в_Україні
@@ -214,9 +220,10 @@
 ||donationalerts.com^
 ||habr.com^
 ||hikka.pw^
+||juniper.bot^
 ||krt.news^
-||livejournal.com^
 ||litemanager.com^
+||livejournal.com^
 ||lukoil.com^
 ||mechel.com^
 ||megafon.com^
@@ -226,7 +233,9 @@
 ||odnako.org^
 ||onlyoffice.com^
 ||qiwi.com^
+||remontka.pro^
 ||ren.tv^
+||repology.org^
 ||rt.com^
 ||rtr-planeta.com^
 ||rusadmin.biz^
