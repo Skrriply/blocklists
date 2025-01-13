@@ -114,6 +114,7 @@
 ||tilda.cc^
 ||tilda.ws^
 ||tildacdn.com^
+||tildacdn.one^
 
 ! Linux distributions
 ! https://distrowatch.com/search.php?origin=Russia
@@ -185,6 +186,7 @@
 ||bitrix24.com^
 ||bitrix24.de^
 ||bitrix24.es^
+||bitrix24.eu^
 ||bitrix24.fr^
 ||bitrix24.id^
 ||bitrix24.it^
