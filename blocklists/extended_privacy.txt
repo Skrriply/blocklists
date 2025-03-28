@@ -1,0 +1,43 @@
+[Adblock Plus]
+! Title: 🛡️ Extended Privacy Filter
+! Description: Blocks trackers and other elements that threaten your privacy online.
+! Homepage: https://github.com/Skrriply/blocklists
+! License: https://github.com/Skrriply/blocklists/blob/main/LICENSE
+! Issues: https://github.com/Skrriply/blocklists/issues
+! Syntax: uBlock
+
+! Third Party
+||addevent.com^$third-party
+||addthisevent.com^$third-party
+||disqus.com^$third-party
+||gtranslate.net^$third-party
+||gravatar.com^$third-party
+
+! Chat Widgets
+||api.tdl.com.ua^
+||chats.ukc.gov.ua^
+||widget-cz.ukc.gov.ua^
+||widget-kwizbot.varus.ua^
+||w.liqpay.ua^
+
+! IP Lookups
+||country.is^
+||geojs.io^
+||ident.me^
+||ip-api.com^
+||ipapi.co^
+||ipify.org^
+||ipinfo.io^
+||iplocation.net^
+||ipwhois.app^
+
+! Discourse Forums
+||forum.*/clicks/track
+||forums.*/clicks/track
+
+! Other
+||fingerprint.pb.ua^
+||discord.com/assets/sentry.*.js
+||discord.com/error-reporting-proxy
+||factorio.zone/api/track/link
+
