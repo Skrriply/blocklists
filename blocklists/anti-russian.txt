@@ -1,6 +1,6 @@
 [Adblock Plus]
-! Title: 🚫 Anti-russian blocklist
-! Description: Blocks russian websites
+! Title: 🚫 Anti-russian Blocklist
+! Description: Blocks russian websites.
 ! Homepage: https://github.com/Skrriply/blocklists
 ! License: https://github.com/Skrriply/blocklists/blob/main/LICENSE
 ! Issues: https://github.com/Skrriply/blocklists/issues
