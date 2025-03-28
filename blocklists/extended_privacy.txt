@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: 🛡️ Extended Privacy Filter
-! Description: Blocks trackers and other elements that threaten your privacy online.
+! Description: Blocks trackers and other elements that threaten your privacy online. This filter may break many websites' functionality.
 ! Homepage: https://github.com/Skrriply/blocklists
 ! License: https://github.com/Skrriply/blocklists/blob/main/LICENSE
 ! Issues: https://github.com/Skrriply/blocklists/issues
