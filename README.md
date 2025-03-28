@@ -7,6 +7,7 @@
 
 My blocklists for [uBlock Origin](https://github.com/gorhill/uBlock)
 
-| 📄 Blocklist           | ✏️ Description          | 🔗 Link                                                                                                   |
-|------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------|
-| Anti-russian blocklist | Blocks russian websites | [Link](https://raw.githubusercontent.com/Skrriply/blocklists/refs/heads/main/blocklists/anti-russian.txt) |
+| 📄 Blocklist               | ✏️ Description                                                            | 🔗 Link                                                                                                      |
+|----------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Anti-russian blocklist     | Blocks russian websites                                                   | [Link](https://raw.githubusercontent.com/Skrriply/blocklists/refs/heads/main/blocklists/anti-russian.txt)    |
+| Extended privacy blocklist | Blocks trackers and other elements that threaten your privacy online     | [Link](https://raw.githubusercontent.com/Skrriply/blocklists/refs/heads/main/blocklists/extended_privacy.txt) |
